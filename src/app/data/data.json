@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "title": "The CarHero App",
-    "description": "the web-app for trading cars.",
+    "title": "CarHero App",
+    "description": "full-stack web-app for trading cars.",
     "stack": "Vue/NuxtJS, Prisma, Supabase, Tailwind, TypeScript",
     "demo": "https://admirable-custard-d87bc5.netlify.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/carHero",
@@ -10,8 +10,8 @@
   },
   {
     "id": 2,
-    "title": "The ChatApp",
-    "description": "the application for real-time communication in text format.",
+    "title": "ChatApp",
+    "description": "full-stack application for real-time communication in text format.",
     "stack": "MERN stack, NextJS, Socket.io",
     "demo": "https://extraordinary-fenglisu-3921a8.netlify.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/chatic-repo",
@@ -19,8 +19,8 @@
   },
   {
     "id": 3,
-    "title": "The NextJS Blog-App",
-    "description": "the blog app for sharing pictures.",
+    "title": "NextJS Blog-App",
+    "description": "blog app for sharing pictures",
     "stack": "NextJS, Firebase, GraphQL, Hygraph, Tailwind, TypeScript",
     "demo": "https://next-blog-tau-lovat.vercel.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/next-blog",
@@ -28,8 +28,8 @@
   },
   {
     "id": 4,
-    "title": "The Phone Catalog",
-    "description": "the e-commerce web-site for buying mobile phones & accessories.",
+    "title": "Phone Catalog",
+    "description": "e-commerce web-site for buying mobile phones & accessories.",
     "stack": "React, TypeScript, SASS, Bulma",
     "demo": "https://yaroslavkolbaiev.github.io/react_phone-catalog/",
     "gitHub": "https://github.com/YaroslavKolbaiev/react-phones-app",
@@ -37,8 +37,8 @@
   },
   {
     "id": 5,
-    "title": "The Job-Board-App",
-    "description": "the website for posting jobs. Server is deployed using free tier with very low speed",
+    "title": "Job-Board-App",
+    "description": "website for posting vacancies. Server is deployed using free tier with very low speed",
     "stack": "React, NodeJS, Express, GraphQL, Apollo Client/Server",
     "demo": "https://job-board-client.onrender.com/",
     "gitHub": "https://github.com/YaroslavKolbaiev/graphql-apollo-jobboard-app",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "title": "The Quiz App",
+    "title": "Quiz App",
     "description": "application for testing your IQ.",
     "stack": "Vue, Pinia, SASS",
     "demo": "https://delicate-pothos-8926b0.netlify.app/",
@@ -104,7 +104,7 @@
     "description": "Web page about me and my projects",
     "stack": "React, Bulma",
     "demo": "",
-    "gitHub": "",
+    "gitHub": "https://github.com/YaroslavKolbaiev/portfolio",
     "image": "/assets/project12.png"
   }
 ]

@@ -14,8 +14,8 @@ const Projects = () => {
               style={{
                 objectFit: "cover",
                 height: "100%",
-                borderTopLeftRadius: "10px",
-                borderBottomLeftRadius: "10px",
+                borderTopLeftRadius: "5px",
+                borderBottomLeftRadius: "5px",
               }}
               src={project.image}
               alt="Picture of project"

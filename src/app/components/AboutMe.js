@@ -11,8 +11,8 @@ const AboutMe = () => {
             className="is-rounded"
             src="/assets/ava.jpg"
             alt="Picture of admin"
-            width={360}
-            height={360}
+            width={720}
+            height={720}
           />
         </div>
       </div>
