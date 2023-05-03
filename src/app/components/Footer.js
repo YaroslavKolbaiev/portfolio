@@ -12,8 +12,11 @@ const Footer = () => {
     <div className="hero-foot">
       <nav className="tabs">
         <div class="container">
-          <a className="is-underlined is-size-4" onClick={srollToTop}>
-            Go to top
+          <a onClick={srollToTop}>
+            <img
+              className="icon is-large cardIcon"
+              src="/assets/arrow-circle-up-svgrepo-com.svg"
+            />
           </a>
         </div>
       </nav>

@@ -33,12 +33,12 @@ const Projects = () => {
                 style={{ gap: "20px" }}
                 className="is-flex is-justify-content-center mb-4"
               >
-                <span className="icon">
+                <span className="icon is-medium cardIcon">
                   <a href={project.demo}>
                     <img src="/assets/web-svgrepo-com.svg" />
                   </a>
                 </span>
-                <span className="icon">
+                <span className="icon is-medium cardIcon">
                   <a href={project.gitHub}>
                     <img src="/assets/github-142-svgrepo-com.svg" />
                   </a>

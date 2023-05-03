@@ -1,12 +1,12 @@
 [
   {
-    "id": 1,
-    "title": "CarHero App",
-    "description": "full-stack web-app for trading cars.",
-    "stack": "Vue/NuxtJS, Prisma, Supabase, Tailwind, TypeScript",
-    "demo": "https://admirable-custard-d87bc5.netlify.app/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/carHero",
-    "image": "/assets/project1.png"
+    "id": 4,
+    "title": "Phone Catalog",
+    "description": "e-commerce web-site for buying mobile phones & accessories.",
+    "stack": "React, TypeScript, SASS, Bulma",
+    "demo": "https://yaroslavkolbaiev.github.io/react_phone-catalog/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/react-phones-app",
+    "image": "/assets/project4.png"
   },
   {
     "id": 2,
@@ -18,31 +18,22 @@
     "image": "/assets/project2.png"
   },
   {
+    "id": 1,
+    "title": "CarHero App",
+    "description": "full-stack web-app for trading cars.",
+    "stack": "Vue/NuxtJS, Prisma, Supabase, Tailwind, TypeScript",
+    "demo": "https://admirable-custard-d87bc5.netlify.app/",
+    "gitHub": "https://github.com/YaroslavKolbaiev/carHero",
+    "image": "/assets/project1.png"
+  },
+  {
     "id": 3,
     "title": "NextJS Blog-App",
-    "description": "blog app for sharing pictures",
+    "description": "blog app for posting pictures and sharing your comments",
     "stack": "NextJS, Firebase, GraphQL, Hygraph, Tailwind, TypeScript",
     "demo": "https://next-blog-tau-lovat.vercel.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/next-blog",
     "image": "/assets/project3.png"
-  },
-  {
-    "id": 4,
-    "title": "Phone Catalog",
-    "description": "e-commerce web-site for buying mobile phones & accessories.",
-    "stack": "React, TypeScript, SASS, Bulma",
-    "demo": "https://yaroslavkolbaiev.github.io/react_phone-catalog/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/react-phones-app",
-    "image": "/assets/project4.png"
-  },
-  {
-    "id": 5,
-    "title": "Job-Board-App",
-    "description": "website for posting vacancies. Server is deployed using free tier with very low speed",
-    "stack": "React, NodeJS, Express, GraphQL, Apollo Client/Server",
-    "demo": "https://job-board-client.onrender.com/",
-    "gitHub": "https://github.com/YaroslavKolbaiev/graphql-apollo-jobboard-app",
-    "image": "/assets/project5.png"
   },
   {
     "id": 6,
@@ -97,14 +88,5 @@
     "demo": "https://yaroslavkolbaiev.github.io/layout_miami/",
     "gitHub": "https://github.com/YaroslavKolbaiev/layout_miami/tree/develop/src",
     "image": "/assets/project11.png"
-  },
-  {
-    "id": 12,
-    "title": "Portfolio Page",
-    "description": "Web page about me and my projects",
-    "stack": "React, Bulma",
-    "demo": "",
-    "gitHub": "https://github.com/YaroslavKolbaiev/portfolio",
-    "image": "/assets/project12.png"
   }
 ]
