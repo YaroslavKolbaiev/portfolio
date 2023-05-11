@@ -12,7 +12,7 @@
     "id": 2,
     "title": "ChatApp",
     "description": "full-stack application for real-time communication in text format.",
-    "stack": "MERN stack, NextJS, Socket.io",
+    "stack": "MERN stack, NextJS, Socket.io, Google Cloud",
     "demo": "https://extraordinary-fenglisu-3921a8.netlify.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/chatic-repo",
     "image": "/assets/project2.png"
