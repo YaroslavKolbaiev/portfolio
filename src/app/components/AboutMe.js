@@ -24,7 +24,7 @@ const AboutMe = () => {
           <p className="has-text-grey-light is-size-6 is-size-5-tablet">
             First and foremost, I love, and I enjoy writing code. Ever since my
             first time learning JavaScript, I fell in love with the feeling
-            every time the compile ran successfully. Since then, it is always
+            every time the compiler ran successfully. Since then, it is always
             not enough with coding. For me, coding is technically a
             problem-solving skill that I have to get through the problems, solve
             it, and make it run. That's why I love it. When I had an exciting
