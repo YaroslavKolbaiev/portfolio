@@ -12,7 +12,7 @@
     "id": 2,
     "title": "ChatApp",
     "description": "full-stack application for real-time communication in text format.",
-    "stack": "MERN stack, NextJS, Socket.io, Google Cloud",
+    "stack": "NodeJS, ExpressJS, MongoDB, NextJS, Socket.io, Google Cloud, JWT",
     "demo": "https://extraordinary-fenglisu-3921a8.netlify.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/chatic-repo",
     "image": "/assets/project2.png"
@@ -39,7 +39,7 @@
     "id": 6,
     "title": "Quiz App",
     "description": "application for testing your IQ.",
-    "stack": "Vue, Pinia, SASS",
+    "stack": "Vue, Pinia, SASS, REST API",
     "demo": "https://delicate-pothos-8926b0.netlify.app/",
     "gitHub": "https://github.com/YaroslavKolbaiev/quiz-vue",
     "image": "/assets/project6.png"
