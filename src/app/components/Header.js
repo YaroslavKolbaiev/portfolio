@@ -8,7 +8,7 @@ const Header = () => {
               style={{ textShadow: "2px 2px 2px #6a6a6a" }}
               class="navbar-item is-size-3 has-text-weight-bold has-text-white-bis"
             >
-              Portfolio
+              My Portfolio
             </a>
           </div>
         </div>
